@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Gnaas_UENR", "Gnaas_UENR\Gnaas_UENR.vbproj", "{A1B5C9CF-CF8F-4699-A22E-703E41ADCBDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1B5C9CF-CF8F-4699-A22E-703E41ADCBDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1B5C9CF-CF8F-4699-A22E-703E41ADCBDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1B5C9CF-CF8F-4699-A22E-703E41ADCBDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1B5C9CF-CF8F-4699-A22E-703E41ADCBDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8484ED03-2E80-4BAD-A1E1-D17AA14BFFE1}
+	EndGlobalSection
+EndGlobal
